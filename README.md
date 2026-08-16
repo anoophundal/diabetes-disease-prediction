@@ -119,3 +119,8 @@ predict_diabetes(patient)
 - SMOTE or other resampling to address class imbalance more directly
 - SHAP values for per-prediction explanations
 - A Streamlit or Flask demo wrapping `predict_diabetes()`
+
+##  Author
+
+**Anoop Kaur**  
+B.Tech CSE (Honours) – Artificial Intelligence & Machine Learning 
